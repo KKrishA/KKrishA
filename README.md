@@ -1,9 +1,5 @@
 # hey, i'm krish
 
-Software engineer in San Francisco, currently building at **Zipline** and studying **Data Science at UC Berkeley**. Interested in intelligent systems and the real world they operate in.
-
-I like working on backend systems for AI/ML applications, and turning them into products people can actually use.
-
 [my site](https://krish-portfolio-lovat.vercel.app) · [linkedin](https://www.linkedin.com/in/karora27) · [email](mailto:karora27@berkeley.edu)
 
 ### what i've been up to
